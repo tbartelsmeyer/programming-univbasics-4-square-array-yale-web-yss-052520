@@ -7,5 +7,5 @@ def square_array(array)
     #p "array[#{i}] = #{array[i]}"
     i += 1
   end
-  sq_array
+  #sq_array
 end
